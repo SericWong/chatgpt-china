@@ -14,9 +14,10 @@ ChatGPT 中文版是由 OpenAI 开发的 ChatGPT 模型的中文优化版本，�
 |----------------------|-------------------------------------------|----------------------------|----------------------------|----------------------------------|
 | AIBox 一站式AI平台   | [Aimi](https://chat.aimirror123.com)      | GPT-5, GPT-4o, Claude3.5, Gemini, o1 | 注册赠送算力55，每天登录赠送10次GPT4对话 | 支持GPT全模型，支持Midjourney、AIPPT |
 | AI镜像站集合              | [write.work](https://www.chatgpt-mirrors.com/chatgpt)    | GPT-5, GPT-4.5             | 注册后5次                  | 支持 GPT-5、AI 绘图              |
-| allyfy               | [gptcat.net](https://www.allyfy.chat/)    | GPT-4, GPT-o1               | 5次                        | 有广告                            |
-| GPT/Claue聚合        | [ai-panda.xyz](https://chat.aibox365.cn)  | GPT-4o, Claude3.5, o1-pro   | 10次                       | 稳定快速,支持o1系列               |
-| MyGPT                | [mygpt.bid](https://mygpt.bid/)           | GPT-4, GPT-4o, o1, o3       | 注册赠送额度，部分功能免费  | 支持多模型，界面简洁，速度快       |
+| Gemini 镜像               | [gptcat.net](https://gemini-tool.com/)    |  Gemini-3, Gemini3pro               | 5次                        | 有广告                            |
+| GPT/Claue聚合        | [ai-panda.xyz](https://chat.write360.cn)  | GPT-4o, Claude3.5, o1-pro   | 10次                       | 稳定快速,支持o1系列               |
+| claude镜像                | [claude中文版](https://claude-site.com/)           | GPT-45, GPT-4o, o1, o3       | 注册赠送额度，部分功能免费  | 支持多模型，界面简洁，速度快       |
+| Grok 镜像                | [grok 中文版](https://grok-tool.com/)           | Grok-4.1, Grok-4, o1, o3       | 注册赠送额度，部分功能免费  | 支持多模型，界面简洁，速度快       |
 
 ---
 
